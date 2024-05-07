@@ -4,6 +4,7 @@
 
 ## Prerequisites
 - Docker daemon must be running on your machine.
+- Before running the project, ensure that you have an OpenAI key added to .env
 
 ## Setup Instructions
 
